@@ -566,12 +566,12 @@ function drawPoster() {
   drawIpoArt(530, 492, 458, 64);
   storyNumber(978, 502, 3);
   drawText(530, 564, "BUSINESS", 2, RED);
-  drawText(530, 584, "ANTHROPIC PRICES", 4, INK);
+  drawText(530, 584, "ANTHROPIC TO PRICE", 4, INK);
   drawText(530, 616, "RECORD $64BN IPO", 4, INK);
   drawWrapped(
     530,
     652,
-    "$70-78 A SHARE, UP TO $64BN, THE LARGEST IPO EVER. TRADING STARTS THURSDAY AS ANT.",
+    "$70-78 A SHARE. UP TO $64BN, AMONG THE LARGEST IPOS EVER. DUE TO TRADE THURSDAY AS ANT.",
     2,
     458,
     INK,
